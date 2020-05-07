@@ -31,6 +31,6 @@ CREATE TABLE `employee` (
 
 INSERT INTO `employee` VALUES (1,'keerthi','kerela','day'),(2,'mani','tn','night');
 
-select*from Candidates;
-select*from Training;
-select*from Employees;
+select*from candidates;
+select*from training;
+select*from employee;
